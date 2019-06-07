@@ -1,0 +1,9 @@
+do
+  take input from user (n)
+ while(if the inpu is not in between 1 to 8 again ask for input)
+ 
+ for loop for print bricks n
+   for loop for space of n - i 
+   for loop for print # of i times
+   print next line 
+ end of loop
